@@ -1,4 +1,4 @@
-package OOP_Lab;
+package OOP_Lab.PlaneApp;
 public class PlaneSeat{
     private int seatID;
     private boolean assigned = false;

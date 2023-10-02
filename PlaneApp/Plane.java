@@ -1,4 +1,4 @@
-package OOP_Lab;
+package OOP_Lab.PlaneApp;
 import java.util.Scanner;
 
 public class Plane {
